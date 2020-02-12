@@ -19,49 +19,47 @@ skills:
  - Data Center
  - Flutter
  - SQL
+ - GIT
+ - Kubernetes
+ - Docker
 
 #Work experience is required
 roles:
- - title: CTO
-   start: 2017
+ - title: Data Center Hardware Operations Technician III
+   start: 2019
    end: Ongoing
-   employer: Basement Crowd
-   description: Legaltech startup producing a range of innovative legal products. Products include <a href="https://www.juriosity.com" taget="_blank">Juriosity</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
- - title: Senior Engineer
-   start: 2016
-   end: 2017
-   employer: Emerald Street Ventures
-   description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
- - title: Senior Engineer
-   start: 2012
-   end: 2016
-   employer: Covestor
-   description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> Working as a senior engineer, I worked closely with the CTO and across the full-stack, I was involved in all aspects of the technology including the website and back-end services.
- - title: Associate Manager
-   start: 2005
-   end: 2012
-   employer: Accenture
-   description: Working on a range of functional and technical roles, primarily working on client sites in Financial Services in London and Europe.
+   employer: Google
+   description: 
+ - title: Data Center Hardware Operations Technician II
+   start: 2019
+   end: 2018
+   employer: Google
+   description:
+ - title: Data Center Hardware Operations Techician I
+   start: 2013
+   end: 2018
+   employer: Google
+   description:
 
 #Education is required
 education:
- - level: Bachelor of Science (B.Sc.)
-   date: 2003
-   subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
+ - level: 
+   date: 
+   subject: 
+   school: Nivalan Ammattiopisto / Vocational College
 
 #This section is optional (as is the image link below)
 coursera:
-   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
+   profileurl: 
    courses:
-    - title: Functional Programming Principles in Scala
-      link: https://www.coursera.org/course/progfun
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
-      date: September 16, 2013
-    - title: Algorithms Design and Analysis, Part 1
-      link: https://www.coursera.org/specializations/algorithms
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
-      date: April 28, 2014
+    - title: 
+      link: 
+      optionalimage: 
+      date: 
+    - title: 
+      link: 
+      optionalimage: 
+      date: 
 
 #This section is optional - embeds slideshows from speakerdeck
 # to get the speakerdeck ID copy the embed code and look for the data-it attribute
@@ -76,7 +74,7 @@ speakerdeck:
       conference: W-JAX Conference, Munich 2017 (London 2017)
 
 #List of interesting Github repo/projects to include - optional
- github:
+#github:
 #  - robhinds/robhinds.github.io
 #  - robhinds/ScaLambda
 #  - robhinds/opinionated-akka-http
@@ -89,7 +87,7 @@ speakerdeck:
 #  - robhinds/ElasticSearchGradle
 
 #Stackoverflow flair is optional
- stackoverflow:
+#stackoverflow:
 #    profileurl: http://stackoverflow.com/users/258813/rhinds
 #    flairimageurl: http://stackoverflow.com/users/flair/258813.png
 
@@ -110,4 +108,4 @@ speakerdeck:
 #    As part of Nerdability, I created, and am now primary contributor to, two Spring projects - <a target='_blank' href="https://github.com/robhinds/spring-social-geeklist">Spring-Social-Geeklist</a> and <a target='_blank' href="https://github.com/nerdability/spring-social-khan-academy">Spring-Social-Khan-Academy</a>, which provide core integration with those third-party APIs on top of the Spring Social framework. They are both listed as community projects: <a target='_blank' href="http://projects.spring.io/spring-social/">http://projects.spring.io/spring-social/</a>. <br/><br/>
 #    I write a blog covering technical and opinion articles that can be found here: <a target='_blank' href="http://automateddeveloper.blogspot.com/">automateddeveloper.blogspot.com</a> (I am also a <a target='_blank' href="https://dzone.com/users/899489/rhinds.html">DZone MVB</a>)
 
-theme: jekyll-theme-hacker
+#theme: jekyll-theme-hacker
